@@ -1,1 +1,2 @@
-fully responsive tic-tac-toe-game using html css javascript....
+#tic-tac-toe #game
+
